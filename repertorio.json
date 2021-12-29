@@ -1,0 +1,584 @@
+{
+    "1": 
+	{
+		"titulo":"Canon",
+		"autor"	:"Pachelbel",
+		"canto"	:"cortejo",
+		"video": "oKfQbkzpHX4",
+        "integrantes" : 4,
+		"id":"1",
+        "tags": ["boda", "todo", "cortejo"]
+	},
+
+		"4":
+	{
+		"titulo":"Marcha Nupcial",
+		"autor"	:"F Mendhelsson",
+		"canto"	:"entrada",
+		"video": "ba6JwjoAWjw",
+        "integrantes" : 5,
+		"id":"4",
+        "tags": ["boda"]
+	},
+
+		"5":
+	{
+		"titulo":"Alma Bendice al Senor",
+		"autor":"J S Bach",
+		"canto": "entrada",
+		"video": "Jf8LiXr5410",
+        "integrantes" : 3,
+		"id":"5",
+        "tags": ["todo"]
+	},
+
+		"6":
+	{
+		"titulo":"Canticorum Jubilo",
+		"autor":"G F Haendel",
+		"canto":"entrada",
+		"video":"eMieK_Hghu8",
+        "integrantes" : 3,
+	 	"id":"6",
+        "tags": ["todo"]
+	},
+
+		"7":
+	{
+		"titulo":"Canticorum Jubilo Instrumental",
+		"autor":"G F Haendel",
+		"canto":"entrada",
+		"video":"R3ZgOh0jGUE",
+        "integrantes" : 3,
+		"id":"7",
+        "tags": ["todo"]
+	},
+
+		"9":
+	{
+		"titulo": "Gloria de la misa Stella Matutina",
+		"autor"	: "Vito Carnevalli",
+		"canto"	: "gloria",
+		"video": "sD1J7YROorQ",
+        "integrantes" : 5,
+		"id":"9",
+        "tags": ["todo"]
+	},
+
+		"10":
+	{
+		"titulo":"Kyrie de la misa en Honor a Santa Lucía",
+		"autor":"L. Botazzo",
+		"canto":"kyrie",
+		"video": "MwFxGA-V6vg",
+        "integrantes" : 5,
+		"id":"10",
+        "tags": ["todo"]
+	},
+
+		"11":
+	{
+		"titulo": "Senor ten piedad de la Misa Melodica",
+		"autor": "A Mejia",
+		"canto": "kyrie",
+		"video":"fxum7I5RmvA",
+        "integrantes" : 3,
+		"id":"11",
+        "tags": ["todo"]
+	},
+
+		"12":
+	{
+		"titulo": "Aleluya Mozart con 6  ",
+		"autor"	: "W A Mozart",
+		"canto"	: "aleluya",
+		"video": "Rqk0IAFYf0M",
+        "integrantes" : 6,
+		"id":"12",
+        "tags": ["todo"]
+	},
+
+		"13":
+	{
+		"titulo": "Aleluya-Honor y Gloria",
+		"autor"	: "Gabarain",
+		"canto"	: "aleluya",
+		"video": "ipohKNMZjoQ",
+        "integrantes" : 3,
+		"id":"13",
+        "tags": ["todo"]
+	},
+
+		"14":
+	{
+		"titulo": "Esto que te doy",
+		"autor"	: "popular",
+		"canto"	: "ofertorio",
+		"video": "LJ5LUX5pZaU",
+        "integrantes" : 5,
+		"id":"14",
+        "tags": ["todo"]
+	},
+
+		"16":
+	{
+		"titulo": "Santo de la Misa Stella Matutina",
+		"autor" : "Vito Carnevalli",
+		"canto" : "santo",
+		"video": "MCufhgf_-Eg",
+        "integrantes" : 3,
+		"id":"16",
+        "tags": ["todo"]
+	},
+
+		"17":
+	{
+		"titulo": "Santo ",
+		"autor": "A Mejía",
+		"canto" :"santo",
+		"video": "2ai3LEi0Qv0",
+        "integrantes" : 3,
+		"id":"17",
+        "tags": ["todo"]
+	},
+
+		"18":
+	{
+		"titulo": "Agnus Dei de la Misa Stella Matutina",
+		"autor"	: "Vito Carnevalli",
+		"canto"	: "agnus dei",
+		"video":"iOpjmbWyqOc",
+        "integrantes" : 3,
+		"id":"18",
+        "tags": ["todo"]
+	},
+        "19":
+	{
+		"titulo": "Cordero de Dios",
+		"autor"	: "A Mejía",
+		"canto"	: "agnus dei",
+		"video": "G1cvTovHf3w",
+		"id":"19",
+        "integrantes" : 3,
+        "tags": ["todo"]
+	},
+
+		"20":
+	{
+		"titulo": "Entre tus manos",
+		"autor"	: "popular",
+		"canto"	: "comunion",
+		"video":"KS26-zWRY38",
+        "integrantes" : 5,
+		"id":"20",
+        "tags": ["todo"]
+	},
+
+		"21":
+	{
+		"titulo": "Ave María",
+		"autor"	: "F Schubert",
+		"canto"	: "postcomunion",
+		"video": "6zZOdxUUTDA",
+        "integrantes" : 3,
+		"id":"21",
+        "tags": ["todo"]
+	},
+
+		"22":
+	{
+		"titulo": "Jesus Alegría de los hombres",
+		"autor"	: "popular",
+		"canto"	: "comunion",
+		"video": "S0R_FXcOpTM",
+        "integrantes" : 3,
+		"id":"22",
+        "tags": ["todo"]
+	},
+
+		"23":
+	{
+		"titulo": "Nadie te ama como yo",
+		"autor"	: "Martín Valverde",
+		"canto"	: "comunion",
+		"video": "BGPzZRmGhSY",
+        "integrantes" : 3,
+		"id":"23",
+        "tags": ["todo"]
+	},
+
+		"24":
+	{
+		"titulo":"Panis Angelicus",
+		"autor":"Franck",
+		"canto": "comunion",
+		"video": "4sAmXbzuS7k",
+        "integrantes" : 3,
+		"id":"24",
+        "tags": ["todo"]
+	},
+
+		"25":
+	{
+		"titulo": "Ave Maria Bach",
+		"autor": "Bach-Gounod",
+		"canto" :"postcomunion",
+		"video": "g0nq1-lBSgM",
+        "integrantes" : 3,
+		"id":"25",
+        "tags": ["todo"]
+	},
+
+		"251":
+	{
+		"titulo":"Himno a la alegría",
+		"autor":"Beethoven",
+		"canto": "salida",
+		"video": "pTdgmpKmjsU",
+        "integrantes" : 6,
+		"id": "251",
+        "tags": ["todo"]
+	},
+
+        "24":
+    {
+        "titulo": "Esto que te doy",
+        "autor":"canto popular",
+        "canto": "comunion",
+        "video":"LJ5LUX5pZaU",
+        "integrantes" : 5,
+        "id":"24",
+        "tags": ["todo"]
+    },
+
+        "25":
+    {
+        "titulo": "De aquí hasta el final",
+        "autor": "popular",
+        "canto": "comunion",
+        "video": "35VjgAH94uw",
+        "integrantes" : 5,
+        "id":"25",
+        "tags": ["todo"]
+    },
+
+         "26":
+    {
+        "titulo": "demo 3  ",
+        "autor" : "varios",
+        "canto" : "varios",
+        "video": "mC4FVWC-zYg",
+        "integrantes" : 4,
+        "id": "26",
+        "tags": ["todo"]
+    },
+
+         "27":
+    {
+        "titulo" : "Sanctus Misa Stella Matutina",
+        "autor" : "Vito Carnevalli",
+        "canto" : "sanctus",
+        "video": "_Akm89Tsc4Y",
+        "integrantes" : 3,
+        "id" : "27",
+        "tags": ["todo"]
+    },
+
+         "28":
+    {
+        "titulo": "Aleluya Mozart con 3  ",
+        "autor" : "W A Mozart",
+        "canto" : "aleluya",
+        "video" : "OsOxjM8AHvU",
+        "integrantes" : 3,
+        "id": "28",
+        "tags": ["todo"]
+    },
+
+         "29":
+    {
+        "titulo": "Senor ten piedad Hosana",
+        "autor" : "Camacho",
+        "canto" : "Kyrie",
+        "video" : "DBVeaX2KyZE",
+        "integrantes" : 3,
+        "id": "29",
+        "tags": ["todo"]
+    },
+
+         "29":
+    {
+        "titulo" : "Vino y pan ",
+        "autor" : "Camacho",
+        "canto" : "ofertorio",
+        "video": "GgDdydNltTc",
+        "integrantes" : 3,
+        "id": "29",
+        "tags": ["todo"]
+    },
+
+         "30":
+    {
+        "titulo" : "Cerca de tí",
+        "autor" : "L Masson", 
+        "canto" : "entrada",
+        "video" : "WuVReMJsTAo",
+        "integrantes" : 3,
+        "id": "30",
+        "tags": ["todo", "funeral"]
+    },
+
+         "31":
+    {
+        "titulo" : "Pie Jesu",
+        "autor" : "G Faure",
+        "canto" : "comunion",
+        "video" : "9um9cv_zrLg",
+        "integrantes" : 3,
+        "id": "31",
+        "tags": ["todo", "funeral"]
+    },
+
+         "32":
+    {
+        "titulo": "Domine Fili Unigenite",
+        "autor": "Vivaldi",
+        "canto" : "comunion",
+        "video" : "ZcSLm-3-0mY",
+        "integrantes" : 9,
+        "id" : "32",
+        "tags" : ["todo"]
+    },
+
+         "33":
+    {
+        "titulo" : "Himno a la Alegría 9  ",
+        "autor" : "Beethoven",
+        "canto" : "salida",
+        "video" : "U-R6qyKhmOQ",
+        "integrantes" : 9,
+        "id": "33",
+        "tags": ["todo"]
+    },
+
+         "34":
+    {
+        "titulo" : "Ave María 4  ", 
+        "autor" : "F Schubert",
+        "canto" : "comunion",
+        "video" : "NYC7IMWMbW0",
+        "integrantes" : 4,
+        "id" : "34",
+        "tags": ["todo"]
+    },
+
+         "35":
+    {
+        "titulo" : "Cordero de Dios 4  ",
+        "autor" : "A Mejía",
+        "canto" : "agnus",
+        "video" : "iqpFYwDWTu8",
+        "integrantes" : 4,
+        "id" : "35",
+        "tags": ["todo"]
+    },
+
+         "36":
+    {
+        "titulo" : "Panis Angelicus 4  ",
+        "autor" : "C Franck",
+        "canto" : "comunion",
+        "video" : "7-vguxc7RLc",
+        "integrantes" : 4,
+        "id" : "36",
+        "tags": ["todo"]
+    },
+
+         "37":
+    {
+        "titulo" : "Sanctus 4  ",
+        "autor" : "V Carnevalli",
+        "canto" : "sanctus",
+        "video" : "crK-WN6qQuY",
+        "integrantes" : 4,
+        "id" : "37",
+        "tags": ["todo"]
+    },
+
+         "38":
+    {
+        "titulo" : "Senor ten piendad 4  ",
+        "autor" : "A Mejía",
+        "canto" : "kyrie",
+        "video" : "YxbhXKMy2zs",
+        "integrantes" : 4,
+        "id" : "38",
+        "tags": ["todo"]
+    },
+    "39":
+    {
+        "titulo" : "Canon",
+        "autor" : "Pachelbel",
+        "canto" : "entrada",
+        "video" : "XJF9gxt7Pwk",
+        "integrantes" : 3,
+        "id" : "39",
+        "tags": ["todo"]
+    },
+
+         "40":
+    {
+        "titulo" : "Santus de la misa Brevis k220",
+        "autor" : "W A Mozart",
+        "canto" : "sanctus",
+        "video" : "DCwH15aM2qA",
+        "integrantes" : 9,
+        "id" : "40",
+        "tags": ["todo"]
+    },
+
+         "41":
+    {
+        "titulo" : "Jesús Alegría de los Hombres 9  ", 
+        "autor" : "J S Bach",
+        "canto": "ofertorio",
+        "video" : "75LHFA2ENUI",
+        "integrantes" : 9,
+        "id" : "41",
+        "tags": ["todo"]
+    },
+
+         "42":
+    {
+        "titulo" : "Himno a la Alegría 6  ",
+        "autor" : "Beethoven",
+        "canto" : "salida", 
+        "video" : "Ay9h0eJJQME",
+        "integrantes" : 7,
+        "id" : "42",
+        "tags": ["todo"]
+    },
+
+         "43":
+    {
+        "titulo" : "Santus de la misa Brevis k220 6  ",
+        "autor" : "W A Mozart",
+        "canto" : "sanctus",
+        "video" : "HIeyV_f1OOE",
+        "integrantes" : 7,
+        "id" : "43",
+        "tags": ["todo"]
+    },
+
+         "44":
+    {
+        "titulo" : "Jesús alegría de los hombres 6  ",
+        "autor" : "J S Bach",
+        "canto" : "ofertorio",
+        "video" : "T1yxnC0lwrg",
+        "integrantes" : 6,
+        "id" : "44",
+        "tags": ["todo"]
+    },
+
+         "45":
+    {
+        "titulo" : "Aleluya Cohen",
+        "autor" : "Cohen",
+        "canto" : "aleluya",
+        "video" : "T1yxnC0lwrg",
+        "integrantes" : 6,
+        "id" : "45",
+        "tags": ["todo"]
+    },
+
+         "46":
+    {
+        "titulo" : "Gloria de la misa de Coronación 6  ",
+        "autor" : "W A Mozart",
+        "canto" : "Gloria",
+        "video" : "6JGISFWCnIc",
+        "integrantes" : 6,
+        "id" : "46",
+        "tags": ["todo"]
+    },
+
+         "47":
+    {
+        "titulo" : "Kyrie de la misa Brevis k220 6  ",
+        "autor" : "W A Mozart",
+        "canto" : "k220",
+        "video" : "_QzwcRtPZXo",
+        "integrantes" : 6,
+        "id" : "47",
+        "tags": ["todo"]
+    },
+
+         "48":
+    {
+        "titulo" : "Ave Verum Corpus 6  ", 
+        "autor" : "W A Mozart",
+        "canto" : "comunion",
+        "video" : "tsGGASv6piY",
+        "integrantes" : 6,
+        "id" : "48",
+        "tags": ["todo"]
+    },
+
+         "49":
+    {
+        "titulo": "Senor ten piedad Hosana 6  ",
+        "autor" : "Camacho",
+        "canto" : "Kyrie",
+        "video" : "aMXR4mMin8Y",
+        "integrantes" : 6,
+        "id": "49",
+        "tags": ["todo"]
+    },
+
+
+         "50":
+    {
+        "titulo" : "Aleluya Cohen",
+        "autor" : "Cohen",
+        "canto" : "aleluya",
+        "video" : "bnO2NjdJNV4",
+        "integrantes" : 4,
+        "id" : "50",
+        "tags": ["todo"]
+    },
+
+		"51":
+	{
+		"titulo": "Ave Maria Bach",
+		"autor": "Bach-Gounod",
+		"canto" :"postcomunion",
+		"video": "qLoHTnivDRI",
+        "integrantes" : 3,
+		"id":"51",
+        "tags": ["todo"]
+	},
+
+		"52":
+	{
+		"titulo":"Alma Bendice al Senor 6  ",
+		"autor":"J S Bach",
+		"canto": "entrada",
+		"video": "6C1l2IZDDXQ",
+        "integrantes" : 6,
+		"id":"52",
+        "tags": ["todo"]
+	},
+
+         "53":
+    {
+        "titulo" : "Santo 6  ",
+        "autor" : "A Mejía",
+        "canto" : "sanctus",
+        "video" : "Ys7KAhr4R_I",
+        "integrantes" : 6, 
+        "id" : "53",
+        "tags": ["todo"]
+    }
+
+}
